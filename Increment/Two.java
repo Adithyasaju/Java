@@ -1,5 +1,3 @@
-package Increment;
-
 public class Two {
     public static void main(String[] args) {
         int a=5++;
