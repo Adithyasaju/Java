@@ -5,7 +5,7 @@ abstract class A {                               //cannot create object
     class B extends A{                           //can create object in class B and access
        public void m1(){
         System.out.println("Class B");
-        }
+        } 
     }
         class Test{
         public static void main(String[] args) {
