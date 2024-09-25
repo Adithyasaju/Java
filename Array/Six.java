@@ -4,6 +4,6 @@ class Test{
         System.out.println(args[1]);
         System.out.println(args[2]); */
         System.out.println(args[0]+args[1]);       //concatenation
-        System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));   //wrappper class -->conerting string to int
+        System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));   //wrappper class -->converting string to int
     }
 }
