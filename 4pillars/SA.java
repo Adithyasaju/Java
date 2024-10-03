@@ -9,8 +9,6 @@ public class SA extends Account{
       super(name, email, loc);
       this.acc_Id=id;
       this.acc_Bal=bal;
-
-
     }
 
 
@@ -38,4 +36,3 @@ public class SA extends Account{
         System.out.println(bal - this.getMin_Bal());
     }
 }
-  
